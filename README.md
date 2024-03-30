@@ -1,1 +1,1 @@
-Hi, I'ma Alwin Kunjumon. An aspiring Computer Science Engineer.
+Hi, I'm Alwin Kunjumon. An aspiring Computer Science Engineer.
