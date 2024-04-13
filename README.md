@@ -10,5 +10,5 @@ I'm Alwin Kunjumon, a Computer Science Engineering Student passionate about Soft
 
 ## Get in Touch
 
-- 📫 Reach me at [alwkunju@gmail.com] (alwkunju@gmail.com)
+- 📫 Reach me at [Email](mailTo:alwkunju@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in//)
